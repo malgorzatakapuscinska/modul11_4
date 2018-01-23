@@ -41,17 +41,4 @@ factory1.printPhone('GalaxyS8');
 
 
 
-/*printPhone(phoneModel);*/
-
-/*PhonesFactory.prototype.printInfo = function(phonesList){
-	
-
-};*/
-
-/*iPhone8Plus.printInfo();*/
-/*galaxyS8.printInfo();*/
-/*xperiaXZ1.printInfo();*/
-
-
-
 
