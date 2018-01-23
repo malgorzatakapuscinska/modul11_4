@@ -23,7 +23,7 @@ PhonesFactory.prototype.addToList = function(phone){
 
 PhonesFactory.prototype.printPhone = function(model){
 	console.log(this.phonesList[model]);
-}
+};
 
 
 var phone1 = ["IPhone8Plus", "Apple", 3979, "gold"];
