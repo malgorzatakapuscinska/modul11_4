@@ -36,7 +36,6 @@ factory1.createInstance(phone1);
 factory1.createInstance(phone2);
 factory1.createInstance(phone3);
 
-/*var phone = 'GalaxyS8';*/
 factory1.printPhone('GalaxyS8'); 
 
 
